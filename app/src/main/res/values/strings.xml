@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALert_Dialog</string>
+    <string name="show_dialog">show_dialog</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+
+    <string name="Sucess_Login_Msg">sucessful login</string>
+    <string name="Error_Login_Msg">Please fill any empty field</string>
+
+
+
+
+
+</resources>

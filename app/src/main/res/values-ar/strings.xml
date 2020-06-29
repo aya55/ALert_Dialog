@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التنبيه الحواري</string>
+    <string name="show_dialog">اظهر المربع الحواري</string>
+    <string name="login">الدخول</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمه المرور</string>
+    <string name="Sucess_Login_Msg">نجح الدخول</string>
+    <string name="Error_Login_Msg">الرجاي ملئ اي مساحه فارغه</string>
+
+
+
+
+
+</resources>
